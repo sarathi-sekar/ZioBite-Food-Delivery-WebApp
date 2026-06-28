@@ -1,4 +1,4 @@
-# 🍔 ZioBite - Food Delivery Web Application
+<img width="1905" height="922" alt="image" src="https://github.com/user-attachments/assets/aa488c8d-5da6-4d1c-b5ba-8a35d35fe7ec" /># 🍔 ZioBite - Food Delivery Web Application
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![JSP](https://img.shields.io/badge/JSP-Servlet-blue)
@@ -163,10 +163,10 @@ ZioBite
 # 📷 Screenshots
 
 ## 🏠 Home Page
+![Uploading image.pn<img width="1905" height="922" alt="Screenshot 2026-06-28 234210" src="https://github.com/user-attachments/assets/c664c7df-e811-471b-bf8e-cb2df948f46e" />
+g…]()
 
-(Add Screenshot Here)
 
----
 
 ## 🍽 Restaurant Page
 
