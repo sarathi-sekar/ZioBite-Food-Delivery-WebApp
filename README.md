@@ -160,43 +160,7 @@ ZioBite
 
 ---
 
-# 📷 Screenshots
 
-## 🏠 Home Page
-![Uploading image.pn<img width="1905" height="922" alt="Screenshot 2026-06-28 234210" src="https://github.com/user-attachments/assets/c664c7df-e811-471b-bf8e-cb2df948f46e" />
-g…]()
-
-
-
-## 🍽 Restaurant Page
-
-(Add Screenshot Here)
-
----
-
-## 📋 Menu Page
-
-(Add Screenshot Here)
-
----
-
-## 🛒 Cart Page
-
-(Add Screenshot Here)
-
----
-
-## 💳 Checkout Page
-
-(Add Screenshot Here)
-
----
-
-## 📦 Order History
-
-(Add Screenshot Here)
-
----
 
 # ⚙ Installation
 
